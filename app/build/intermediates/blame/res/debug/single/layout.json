@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_welcome_page.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_welcome_page.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_today2.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_today2.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/forget_pass_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/forget_pass_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/item_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/item_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/item_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_today2.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_today2.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/forget_pass_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/forget_pass_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_sign_up.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_sign_up.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/fragment_today.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/fragment_today.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_welcome_page.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_welcome_page.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/fragment_today.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/fragment_today.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/activity_maps.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.3.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    }
+]

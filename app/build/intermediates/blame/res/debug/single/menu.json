@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/menu/menu_sign_up.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/menu/menu_sign_up.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/menu/menu_welcome_page.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/menu/menu_welcome_page.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/menu/menu_sign_up.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/menu/menu_sign_up.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/menu/menu_today.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/menu/menu_today.xml"
+    },
+    {
+        "merged": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/menu/menu_welcome_page.xml",
+        "source": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/menu/menu_welcome_page.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/menu/menu_today.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/menu/menu_today.xml"
+    },
+    {
+        "merged": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/L/Projects/Empreints/app/src/main/res/menu/menu_main.xml"
+    }
+]

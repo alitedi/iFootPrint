@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <fragment xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:map="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.SupportMapFragment"
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        tools:context="com.example.alireza.empreints.MapsActivity" />
+
+    <RelativeLayout
+        android:id="@+id/mapLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map"
+        android:orientation="vertical"
+        android:background="@color/primary_dark">
+
+        <EditText
+            android:id="@+id/loc_name"
+            android:layout_marginTop="20dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" />
+
+        <EditText
+            android:id="@+id/loc_comment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/loc_name" />
+
+        <EditText
+            android:id="@+id/loc_ranking"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/loc_comment" />
+
+        <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/layoutContainer_0"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_below="@+id/loc_ranking"
+            android:orientation="horizontal"
+            android:layout_marginBottom="20dp">
+
+            <RelativeLayout
+                android:id="@+id/layoutContainer_1"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="0.3">
+
+                <Button
+                    android:id="@+id/cancel_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/delete"
+                    android:text="Delete"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutContainer_2"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="0.4">
+
+                <Button
+                    android:id="@+id/btn_share"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/share"
+                    android:text="Share"
+                    android:textColor="@color/white" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/layoutContainer_3"
+                android:layout_width="fill_parent"
+                android:layout_height="40dp"
+                android:layout_weight="0.3">
+
+                <Button
+                    android:id="@+id/save_btn"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_alignParentStart="true"
+                    android:background="@color/modify"
+                    android:text="Modify"
+                    android:textColor="@color/white"/>
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

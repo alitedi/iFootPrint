@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iFootPrint</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_welcome_page">WelcomePage</string>
+    <string name="EmptyString" />
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_today">TodayActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="server_client_id">8813683404-1uet0ura1p852bvug3j9hr7e6ku9re6g.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">180866465592666</string>
+</resources>

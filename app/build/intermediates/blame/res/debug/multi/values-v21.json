@@ -1,0 +1,3524 @@
+[
+    {
+        "outputFile": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 90,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 90,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endColumn": 102,
+                    "endOffset": 2083
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 102,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2088,
+                    "endColumn": 102,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 102,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 104,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 104,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endColumn": 106,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 106,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 108,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 108,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 108,
+                    "endOffset": 2616
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 108,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2621,
+                    "endColumn": 108,
+                    "endOffset": 2725
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 108,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2730,
+                    "endColumn": 108,
+                    "endOffset": 2834
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 108,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2839,
+                    "endColumn": 108,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 108,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 106,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 106,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 102,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 102,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 118,
+                    "endOffset": 3272
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 118,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3277,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3427
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3432,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1956,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endColumn": 104,
+                    "endOffset": 3687
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2295,
+                        "endColumn": 104,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3692,
+                    "endColumn": 120,
+                    "endOffset": 3808
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endColumn": 120,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3813,
+                    "endColumn": 100,
+                    "endOffset": 3909
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endColumn": 100,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3914,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2801,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4197
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4202,
+                    "endColumn": 102,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3273,
+                        "endColumn": 102,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endColumn": 118,
+                    "endOffset": 4419
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3376,
+                        "endColumn": 118,
+                        "endOffset": 3490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4424,
+                    "endColumn": 106,
+                    "endOffset": 4526
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3495,
+                        "endColumn": 106,
+                        "endOffset": 3597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4531,
+                    "endColumn": 102,
+                    "endOffset": 4629
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3602,
+                        "endColumn": 102,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4634,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4776
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3884,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4781,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4931
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4031,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4936,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4186,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5107,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5251
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4357,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5256,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4506,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 5573
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4671,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5578,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 5724
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4828,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5729,
+                    "endColumn": 118,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5163,
+                        "endColumn": 118,
+                        "endOffset": 5277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5992
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5461,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5997,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 6141
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5610,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 5754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6146,
+                    "endColumn": 111,
+                    "endOffset": 6253
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5943,
+                        "endColumn": 111,
+                        "endOffset": 6050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6258,
+                    "endColumn": 146,
+                    "endOffset": 6400
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6234,
+                        "endColumn": 146,
+                        "endOffset": 6376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6405,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 6553
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6381,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 6529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6558,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 6700
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6534,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 6676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6705,
+                    "endColumn": 74,
+                    "endOffset": 6775
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6860,
+                        "endColumn": 74,
+                        "endOffset": 6930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6780,
+                    "endColumn": 88,
+                    "endOffset": 6864
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6935,
+                        "endColumn": 88,
+                        "endOffset": 7019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6869,
+                    "endColumn": 86,
+                    "endOffset": 6951
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7024,
+                        "endColumn": 86,
+                        "endOffset": 7106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6956,
+                    "endColumn": 100,
+                    "endOffset": 7052
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7111,
+                        "endColumn": 100,
+                        "endOffset": 7207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7057,
+                    "endLine": 134,
+                    "endColumn": 12,
+                    "endOffset": 10120
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7212,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 10125,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 10306
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 10461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10311,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 13386
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10466,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 13541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13391,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 13584
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13546,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 13739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13589,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 13707
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 13923,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 14041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 13712,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 13830
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14046,
+                        "endLine": 180,
+                        "endColumn": 12,
+                        "endOffset": 14164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 13835,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 13943
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14169,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 14277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 13948,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14126
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14282,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 14460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14131,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14257
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14465,
+                        "endLine": 187,
+                        "endColumn": 12,
+                        "endOffset": 14591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14262,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14458
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14596,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 14792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14463,
+                    "endColumn": 88,
+                    "endOffset": 14547
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14797,
+                        "endColumn": 88,
+                        "endOffset": 14881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 14552,
+                    "endColumn": 110,
+                    "endOffset": 14658
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14886,
+                        "endColumn": 110,
+                        "endOffset": 14992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14663,
+                    "endColumn": 126,
+                    "endOffset": 14785
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 14997,
+                        "endColumn": 126,
+                        "endOffset": 15119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 14790,
+                    "endColumn": 100,
+                    "endOffset": 14886
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15124,
+                        "endColumn": 100,
+                        "endOffset": 15220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 14891,
+                    "endColumn": 94,
+                    "endOffset": 14981
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 15225,
+                        "endColumn": 94,
+                        "endOffset": 15315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 14986,
+                    "endColumn": 122,
+                    "endOffset": 15104
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15320,
+                        "endColumn": 122,
+                        "endOffset": 15438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15109,
+                    "endColumn": 128,
+                    "endOffset": 15233
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15443,
+                        "endColumn": 128,
+                        "endOffset": 15567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15238,
+                    "endColumn": 116,
+                    "endOffset": 15350
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15572,
+                        "endColumn": 116,
+                        "endOffset": 15684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15355,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15527
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 15689,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15532,
+                    "endColumn": 98,
+                    "endOffset": 15626
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15866,
+                        "endColumn": 98,
+                        "endOffset": 15960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15631,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15761
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15965,
+                        "endLine": 204,
+                        "endColumn": 12,
+                        "endOffset": 16095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15766,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 15904
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16100,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 16238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15909,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16039
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 16243,
+                        "endLine": 208,
+                        "endColumn": 12,
+                        "endOffset": 16373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16044,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16158
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 16378,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 16492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16163,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16359
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 16497,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16364,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16478
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16698,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16483,
+                    "endColumn": 92,
+                    "endOffset": 16571
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16817,
+                        "endColumn": 92,
+                        "endOffset": 16905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16576,
+                    "endColumn": 110,
+                    "endOffset": 16682
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16910,
+                        "endColumn": 110,
+                        "endOffset": 17016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16687,
+                    "endColumn": 55,
+                    "endOffset": 16738
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 17021,
+                        "endColumn": 55,
+                        "endOffset": 17072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16743,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 16845
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 17077,
+                        "endLine": 221,
+                        "endColumn": 12,
+                        "endOffset": 17179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 16850,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 17040
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 17184,
+                        "endLine": 225,
+                        "endColumn": 12,
+                        "endOffset": 17374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 17045,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 17151
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 17379,
+                        "endLine": 227,
+                        "endColumn": 12,
+                        "endOffset": 17485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 17156,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 17284
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 17490,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 17618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17289,
+                    "endColumn": 94,
+                    "endOffset": 17379
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 17623,
+                        "endColumn": 94,
+                        "endOffset": 17713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17384,
+                    "endColumn": 90,
+                    "endOffset": 17470
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17718,
+                        "endColumn": 90,
+                        "endOffset": 17804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 17475,
+                    "endColumn": 90,
+                    "endOffset": 17561
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 17809,
+                        "endColumn": 90,
+                        "endOffset": 17895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17566,
+                    "endColumn": 116,
+                    "endOffset": 17678
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 17900,
+                        "endColumn": 116,
+                        "endOffset": 18012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17683,
+                    "endLine": 243,
+                    "endColumn": 12,
+                    "endOffset": 17817
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18017,
+                        "endLine": 235,
+                        "endColumn": 12,
+                        "endOffset": 18151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 17822,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18170
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endLine": 244,
+                        "endColumn": 12,
+                        "endOffset": 18683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 18175,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 18535
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 18688,
+                        "endLine": 251,
+                        "endColumn": 12,
+                        "endOffset": 19048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18540,
+                    "endLine": 267,
+                    "endColumn": 12,
+                    "endOffset": 19215
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 19053,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 19728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19220,
+                    "endColumn": 56,
+                    "endOffset": 19272
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 19733,
+                        "endColumn": 56,
+                        "endOffset": 19785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 19277,
+                    "endColumn": 57,
+                    "endOffset": 19330
+                },
+                "from": {
+                    "file": "/Users/alireza/Desktop/Empreints 4/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19790,
+                        "endColumn": 57,
+                        "endOffset": 19843
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/L/Projects/Empreints/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 68,
+                    "endOffset": 119
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 68,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 124,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 545
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/src/main/res/values-v21/styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 551,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endColumn": 90,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 239,
+                        "endColumn": 90,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endColumn": 102,
+                    "endOffset": 2083
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 102,
+                        "endOffset": 428
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2088,
+                    "endColumn": 102,
+                    "endOffset": 2186
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 433,
+                        "endColumn": 102,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2191,
+                    "endColumn": 104,
+                    "endOffset": 2291
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 104,
+                        "endOffset": 636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2296,
+                    "endColumn": 106,
+                    "endOffset": 2398
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 641,
+                        "endColumn": 106,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2403,
+                    "endColumn": 108,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 108,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 108,
+                    "endOffset": 2616
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 108,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2621,
+                    "endColumn": 108,
+                    "endOffset": 2725
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 108,
+                        "endOffset": 1070
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2730,
+                    "endColumn": 108,
+                    "endOffset": 2834
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endColumn": 108,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2839,
+                    "endColumn": 108,
+                    "endOffset": 2943
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 108,
+                        "endOffset": 1288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2948,
+                    "endColumn": 106,
+                    "endOffset": 3050
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1293,
+                        "endColumn": 106,
+                        "endOffset": 1395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3055,
+                    "endColumn": 102,
+                    "endOffset": 3153
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 102,
+                        "endOffset": 1498
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3158,
+                    "endColumn": 118,
+                    "endOffset": 3272
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1503,
+                        "endColumn": 118,
+                        "endOffset": 1617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3277,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3427
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1951
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3432,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 3582
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1956,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3587,
+                    "endColumn": 104,
+                    "endOffset": 3687
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2295,
+                        "endColumn": 104,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3692,
+                    "endColumn": 120,
+                    "endOffset": 3808
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endColumn": 120,
+                        "endOffset": 2516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3813,
+                    "endColumn": 100,
+                    "endOffset": 3909
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2521,
+                        "endColumn": 100,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3914,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2801,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 2943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 57,
+                    "endColumn": 12,
+                    "endOffset": 4197
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2948,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3084
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4202,
+                    "endColumn": 102,
+                    "endOffset": 4300
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3273,
+                        "endColumn": 102,
+                        "endOffset": 3371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4305,
+                    "endColumn": 118,
+                    "endOffset": 4419
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3376,
+                        "endColumn": 118,
+                        "endOffset": 3490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4424,
+                    "endColumn": 106,
+                    "endOffset": 4526
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3495,
+                        "endColumn": 106,
+                        "endOffset": 3597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 4531,
+                    "endColumn": 102,
+                    "endOffset": 4629
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3602,
+                        "endColumn": 102,
+                        "endOffset": 3700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 4634,
+                    "endLine": 63,
+                    "endColumn": 12,
+                    "endOffset": 4776
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3884,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4781,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4931
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4031,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4936,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 5102
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4186,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4352
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5107,
+                    "endLine": 69,
+                    "endColumn": 12,
+                    "endOffset": 5251
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4357,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5256,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 5416
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4506,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 4666
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5421,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 5573
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 4671,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5578,
+                    "endLine": 75,
+                    "endColumn": 12,
+                    "endOffset": 5724
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4828,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5729,
+                    "endColumn": 118,
+                    "endOffset": 5843
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5163,
+                        "endColumn": 118,
+                        "endOffset": 5277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5848,
+                    "endLine": 78,
+                    "endColumn": 12,
+                    "endOffset": 5992
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 5461,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 5605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5997,
+                    "endLine": 80,
+                    "endColumn": 12,
+                    "endOffset": 6141
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 5610,
+                        "endLine": 64,
+                        "endColumn": 12,
+                        "endOffset": 5754
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6146,
+                    "endColumn": 111,
+                    "endOffset": 6253
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5943,
+                        "endColumn": 111,
+                        "endOffset": 6050
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6258,
+                    "endColumn": 146,
+                    "endOffset": 6400
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 6234,
+                        "endColumn": 146,
+                        "endOffset": 6376
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6405,
+                    "endLine": 84,
+                    "endColumn": 12,
+                    "endOffset": 6553
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 6381,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 6529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6558,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 6700
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 6534,
+                        "endLine": 74,
+                        "endColumn": 12,
+                        "endOffset": 6676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6705,
+                    "endColumn": 74,
+                    "endOffset": 6775
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 6860,
+                        "endColumn": 74,
+                        "endOffset": 6930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6780,
+                    "endColumn": 88,
+                    "endOffset": 6864
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 6935,
+                        "endColumn": 88,
+                        "endOffset": 7019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6869,
+                    "endColumn": 86,
+                    "endOffset": 6951
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 7024,
+                        "endColumn": 86,
+                        "endOffset": 7106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6956,
+                    "endColumn": 100,
+                    "endOffset": 7052
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 7111,
+                        "endColumn": 100,
+                        "endOffset": 7207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7057,
+                    "endLine": 134,
+                    "endColumn": 12,
+                    "endOffset": 10120
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 7212,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 10275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 10125,
+                    "endLine": 137,
+                    "endColumn": 12,
+                    "endOffset": 10306
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10280,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 10461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10311,
+                    "endLine": 181,
+                    "endColumn": 12,
+                    "endOffset": 13386
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10466,
+                        "endLine": 171,
+                        "endColumn": 12,
+                        "endOffset": 13541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 13391,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 13584
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 13546,
+                        "endLine": 174,
+                        "endColumn": 12,
+                        "endOffset": 13739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 13589,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 13707
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 13923,
+                        "endLine": 178,
+                        "endColumn": 12,
+                        "endOffset": 14041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 13712,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 13830
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 179,
+                        "startColumn": 4,
+                        "startOffset": 14046,
+                        "endLine": 180,
+                        "endColumn": 12,
+                        "endOffset": 14164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 13835,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 13943
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 181,
+                        "startColumn": 4,
+                        "startOffset": 14169,
+                        "endLine": 182,
+                        "endColumn": 12,
+                        "endOffset": 14277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 13948,
+                    "endLine": 193,
+                    "endColumn": 12,
+                    "endOffset": 14126
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 183,
+                        "startColumn": 4,
+                        "startOffset": 14282,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 14460
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 14131,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14257
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 14465,
+                        "endLine": 187,
+                        "endColumn": 12,
+                        "endOffset": 14591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14262,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14458
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14596,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 14792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14463,
+                    "endColumn": 88,
+                    "endOffset": 14547
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 14797,
+                        "endColumn": 88,
+                        "endOffset": 14881
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 14552,
+                    "endColumn": 110,
+                    "endOffset": 14658
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 14886,
+                        "endColumn": 110,
+                        "endOffset": 14992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 14663,
+                    "endColumn": 126,
+                    "endOffset": 14785
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 14997,
+                        "endColumn": 126,
+                        "endOffset": 15119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 14790,
+                    "endColumn": 100,
+                    "endOffset": 14886
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15124,
+                        "endColumn": 100,
+                        "endOffset": 15220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 14891,
+                    "endColumn": 94,
+                    "endOffset": 14981
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 15225,
+                        "endColumn": 94,
+                        "endOffset": 15315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 14986,
+                    "endColumn": 122,
+                    "endOffset": 15104
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15320,
+                        "endColumn": 122,
+                        "endOffset": 15438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 15109,
+                    "endColumn": 128,
+                    "endOffset": 15233
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 15443,
+                        "endColumn": 128,
+                        "endOffset": 15567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 15238,
+                    "endColumn": 116,
+                    "endOffset": 15350
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15572,
+                        "endColumn": 116,
+                        "endOffset": 15684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15355,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15527
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 15689,
+                        "endLine": 201,
+                        "endColumn": 12,
+                        "endOffset": 15861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15532,
+                    "endColumn": 98,
+                    "endOffset": 15626
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 15866,
+                        "endColumn": 98,
+                        "endOffset": 15960
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15631,
+                    "endLine": 212,
+                    "endColumn": 12,
+                    "endOffset": 15761
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 203,
+                        "startColumn": 4,
+                        "startOffset": 15965,
+                        "endLine": 204,
+                        "endColumn": 12,
+                        "endOffset": 16095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15766,
+                    "endLine": 214,
+                    "endColumn": 12,
+                    "endOffset": 15904
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 205,
+                        "startColumn": 4,
+                        "startOffset": 16100,
+                        "endLine": 206,
+                        "endColumn": 12,
+                        "endOffset": 16238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 15909,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 16039
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 207,
+                        "startColumn": 4,
+                        "startOffset": 16243,
+                        "endLine": 208,
+                        "endColumn": 12,
+                        "endOffset": 16373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 16044,
+                    "endLine": 218,
+                    "endColumn": 12,
+                    "endOffset": 16158
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 16378,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 16492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16163,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 16359
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 16497,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16693
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 16364,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16478
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16698,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16812
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16483,
+                    "endColumn": 92,
+                    "endOffset": 16571
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16817,
+                        "endColumn": 92,
+                        "endOffset": 16905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16576,
+                    "endColumn": 110,
+                    "endOffset": 16682
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 16910,
+                        "endColumn": 110,
+                        "endOffset": 17016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16687,
+                    "endColumn": 55,
+                    "endOffset": 16738
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 17021,
+                        "endColumn": 55,
+                        "endOffset": 17072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 16743,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 16845
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 17077,
+                        "endLine": 221,
+                        "endColumn": 12,
+                        "endOffset": 17179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 16850,
+                    "endLine": 233,
+                    "endColumn": 12,
+                    "endOffset": 17040
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 17184,
+                        "endLine": 225,
+                        "endColumn": 12,
+                        "endOffset": 17374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 17045,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 17151
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 17379,
+                        "endLine": 227,
+                        "endColumn": 12,
+                        "endOffset": 17485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 17156,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 17284
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 17490,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 17618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 17289,
+                    "endColumn": 94,
+                    "endOffset": 17379
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 17623,
+                        "endColumn": 94,
+                        "endOffset": 17713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 17384,
+                    "endColumn": 90,
+                    "endOffset": 17470
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 17718,
+                        "endColumn": 90,
+                        "endOffset": 17804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 17475,
+                    "endColumn": 90,
+                    "endOffset": 17561
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 17809,
+                        "endColumn": 90,
+                        "endOffset": 17895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 17566,
+                    "endColumn": 116,
+                    "endOffset": 17678
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 17900,
+                        "endColumn": 116,
+                        "endOffset": 18012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17683,
+                    "endLine": 243,
+                    "endColumn": 12,
+                    "endOffset": 17817
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 18017,
+                        "endLine": 235,
+                        "endColumn": 12,
+                        "endOffset": 18151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 17822,
+                    "endLine": 250,
+                    "endColumn": 12,
+                    "endOffset": 18170
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 18335,
+                        "endLine": 244,
+                        "endColumn": 12,
+                        "endOffset": 18683
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 18175,
+                    "endLine": 257,
+                    "endColumn": 12,
+                    "endOffset": 18535
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 18688,
+                        "endLine": 251,
+                        "endColumn": 12,
+                        "endOffset": 19048
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 18540,
+                    "endLine": 267,
+                    "endColumn": 12,
+                    "endOffset": 19215
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 19053,
+                        "endLine": 261,
+                        "endColumn": 12,
+                        "endOffset": 19728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 19220,
+                    "endColumn": 56,
+                    "endOffset": 19272
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 19733,
+                        "endColumn": 56,
+                        "endOffset": 19785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 19277,
+                    "endColumn": 57,
+                    "endOffset": 19330
+                },
+                "from": {
+                    "file": "/Users/L/Projects/Empreints/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19790,
+                        "endColumn": 57,
+                        "endOffset": 19843
+                    }
+                }
+            }
+        ]
+    }
+]
